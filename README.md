@@ -1,2 +1,2 @@
 # ED1
-Algoritmos de Estruturas de Dados I
+Algoritmos e Estruturas de Dados I
